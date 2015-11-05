@@ -3,6 +3,7 @@ packages:
 - ethereum-rlp/
 - strato-conf/
 - miner-ethash/
+- merkle-patricia/
 - merkle-patricia-db/
 - strato-p2p-client/
 - solidity-abi/
